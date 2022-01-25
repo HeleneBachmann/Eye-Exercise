@@ -3,7 +3,7 @@
 
 This is an application that displays an animated eye ball which programmatically follows the viewer's mouse.
 
-
+<br><img src='eyes.jpg'>
 
 Instructions:
 
